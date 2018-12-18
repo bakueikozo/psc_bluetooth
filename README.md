@@ -5,9 +5,9 @@ extract this tree in your psc development folder
 
 for example /media/psc_bluetooth
 
-cd /data/psc_bluetooth
+cd /media/psc_bluetooth
 
-make sure your in /data/psc_bluetooth
+make sure your in /media/psc_bluetooth
 
 You make your bt device in connect mode.
 
